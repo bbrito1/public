@@ -1,353 +1,136 @@
-#EXTM3U
-#EXTINF:-1,PT| RTP 1 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116159
-#EXTINF:-1,PT| RTP 1
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116160
-#EXTINF:-1,PT| RTP 2 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116161
-#EXTINF:-1,PT| RTP 2
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116162
-#EXTINF:-1,PT| RTP 3 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116163
-#EXTINF:-1,PT| RTP 3
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116164
-#EXTINF:-1,PT| RTP MEMORIA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116165
-#EXTINF:-1,PT| RTP ACORES
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116166
-#EXTINF:-1,PT| RTP AFRICA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116167
-#EXTINF:-1,PT| RTP INFORMACAO
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116168
-#EXTINF:-1,PT| RTP MADEIRA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116169
-#EXTINF:-1,PT| SIC 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116170
-#EXTINF:-1,PT| SIC HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116171
-#EXTINF:-1,PT| SIC MULHER 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116172
-#EXTINF:-1,PT| SIC MULHER
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116173
-#EXTINF:-1,PT| SIC RADICAL 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116174
-#EXTINF:-1,PT| SIC RADICAL
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116175
-#EXTINF:-1,PT| SIC NOTICIAS 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116176
-#EXTINF:-1,PT| SIC NOTICIAS
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116177
-#EXTINF:-1,PT| SIC CARAS 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116178
-#EXTINF:-1,PT| SIC KIDS 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116179
-#EXTINF:-1,PT| TVI 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116180
-#EXTINF:-1,PT| TVI FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116181
-#EXTINF:-1,PT| TVI
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116182
-#EXTINF:-1,PT| TVI 24 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116183
-#EXTINF:-1,PT| TVI 24
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116184
-#EXTINF:-1,PT| TVI FICCAO 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116185
-#EXTINF:-1,PT| TVI FICCAO
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116186
-#EXTINF:-1,PT| TVI REALITY 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116187
-#EXTINF:-1,PT| TVI REALITY
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116188
-#EXTINF:-1,PT| TVE 24H
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116189
-#EXTINF:-1,PT| TVE INTERNACIONAL
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116190
-#EXTINF:-1,PT| CMTV 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116191
-#EXTINF:-1,PT| CMTV
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116192
-#EXTINF:-1,PT| PORTO CANAL 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116193
-#EXTINF:-1,PT| PORTO CANAL
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116194
-#EXTINF:-1,PT| SPORT TV+ 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116196
-#EXTINF:-1,PT| SPORT TV + HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116197
-#EXTINF:-1,PT| SPORT TV 1
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116198
-#EXTINF:-1,PT| SPORT TV 1 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116199
-#EXTINF:-1,PT| SPORT TV 1 FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116200
-#EXTINF:-1,PT| SPORT TV 2
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116201
-#EXTINF:-1,PT| SPORT TV 2 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116202
-#EXTINF:-1,PT| SPORT TV 2 FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116203
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116204
-#EXTINF:-1,PT| SPORT TV 3 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116205
-#EXTINF:-1,PT| SPORT TV 3 FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116206
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116207
-#EXTINF:-1,PT| SPORT TV 4 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116208
-#EXTINF:-1,PT| SPORT TV 4
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116209
-#EXTINF:-1,PT| SPORT TV 5 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116210
-#EXTINF:-1,PT| SPORT TV 5
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116211
-#EXTINF:-1,PT| SPORTING TV 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116212
-#EXTINF:-1,PT| SPORTING TV HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116213
-#EXTINF:-1,PT| ELEVEN SPORTS 1 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116214
-#EXTINF:-1,PT| ELEVEN SPORTS 1
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116215
-#EXTINF:-1,PT| ELEVEN SPORTS 2 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116216
-#EXTINF:-1,PT| ELEVEN SPORTS 2
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116217
-#EXTINF:-1,PT| ELEVEN SPORTS 3 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116218
-#EXTINF:-1,PT| ELEVEN SPORTS 3
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116219
-#EXTINF:-1,PT| ELEVEN SPORTS 4 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116220
-#EXTINF:-1,PT| ELEVEN SPORTS 4
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116221
-#EXTINF:-1,PT| ELEVEN SPORTS 5 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116222
-#EXTINF:-1,PT| ELEVEN SPORTS 5
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116223
-#EXTINF:-1,PT| ELEVEN SPORTS 6 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116224
-#EXTINF:-1,PT| ELEVEN SPORTS 6
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116225
-#EXTINF:-1,PT| CANAL 11 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116226
-#EXTINF:-1,PT| CANAL 11
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116227
-#EXTINF:-1,PT| BTV 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116232
-#EXTINF:-1,PT| TOROS TV
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116233
-#EXTINF:-1,PT| PFC HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116234
-#EXTINF:-1,PT| BENFICA TV 1 HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116235
-#EXTINF:-1,PT| REAL MADRID TV
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116236
-#EXTINF:-1,PT| NBA 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116237
-#EXTINF:-1,PT| NBA TV
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116238
-#EXTINF:-1,PT| FIGHT NETWORK 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116239
-#EXTINF:-1,PT| MOTORS TV
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116240
-#EXTINF:-1,PT| MOTORVISION
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116241
-#EXTINF:-1,PT| FUEL TV 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116242
-#EXTINF:-1,PT| NICKELODEON
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116244
-#EXTINF:-1,PT| CANAL PANDA HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116245
-#EXTINF:-1,PT| DISNEY CHANNEL
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116246
-#EXTINF:-1,PT| DISNEY JUNIOR
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116247
-#EXTINF:-1,PT| BIGGS
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116248
-#EXTINF:-1,PT| JIM JAM
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116250
-#EXTINF:-1,PT| 24 KITCHEN 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116252
-#EXTINF:-1,PT| 24 KITCHEN FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116253
-#EXTINF:-1,PT| FOOD NETWORK 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116254
-#EXTINF:-1,PT| TLC
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116256
-#EXTINF:-1,PT| HISTORIA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116257
-#EXTINF:-1,PT| CACA E PESCA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116258
-#EXTINF:-1,PT| DISCOVERY CHANNEL 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116259
-#EXTINF:-1,PT| DISCOVERY CHANNEL
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116260
-#EXTINF:-1,PT| DISCOVERY FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116261
-#EXTINF:-1,PT| ID INVESTIGATION DISCOVERY 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116262
-#EXTINF:-1,PT| TRAVEL CHANNEL FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116263
-#EXTINF:-1,PT| NAT GEO 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116264
-#EXTINF:-1,PT| NAT GEO HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116265
-#EXTINF:-1,PT| NAT GEO WILD 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116266
-#EXTINF:-1,PT| NAT GEO WILD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116267
-#EXTINF:-1,PT| ODISSEIA 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116268
-#EXTINF:-1,PT| ODISSEIA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116269
-#EXTINF:-1,PT| TV FATIMA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116270
-#EXTINF:-1,PT| SYFY 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116272
-#EXTINF:-1,PT| SYFY
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116273
-#EXTINF:-1,PT| AMC 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116274
-#EXTINF:-1,PT| AXN 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116275
-#EXTINF:-1,PT| AXN HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116276
-#EXTINF:-1,PT| AXN BLACK 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116277
-#EXTINF:-1,PT| AXN BLACK
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116278
-#EXTINF:-1,PT| AXN WHITE 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116279
-#EXTINF:-1,PT| AXN WHITE HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116280
-#EXTINF:-1,PT| E ENTERTAINMENT
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116281
-#EXTINF:-1,PT| BLAZE 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116282
-#EXTINF:-1,PT| FOX 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116284
-#EXTINF:-1,PT| FOX HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116285
-#EXTINF:-1,PT| FOX COMEDY 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116286
-#EXTINF:-1,PT| FOX COMEDY
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116287
-#EXTINF:-1,PT| FOX CRIME 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116288
-#EXTINF:-1,PT| FOX CRIME
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116289
-#EXTINF:-1,PT| FOX LIFE 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116290
-#EXTINF:-1,PT| FOX LIFE HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116291
-#EXTINF:-1,PT| FOX MOVIES 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116292
-#EXTINF:-1,PT| FOX MOVIES
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116293
-#EXTINF:-1,PT| TV CINE ACTION 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116294
-#EXTINF:-1,PT| TV CINE ACTION FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116295
-#EXTINF:-1,PT| TV CINE EDITION 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116297
-#EXTINF:-1,PT| TV Cine EDITION
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116298
-#EXTINF:-1,PT| TV CINE TOP 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116299
-#EXTINF:-1,PT| TV CINE TOP HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116300
-#EXTINF:-1,PT| CINE MUNDO 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116301
-#EXTINF:-1,PT| CINE MUNDO
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116302
-#EXTINF:-1,PT| TV CINE EMOTION 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116303
-#EXTINF:-1,PT| TV CINE EMOTION FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116304
-#EXTINF:-1,PT| TV CINE EMOTION HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116305
-#EXTINF:-1,PT| HOLLYWOOD 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116306
-#EXTINF:-1,PT| HOLLYWOOD FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116307
-#EXTINF:-1,PT| NOS STUDIOS 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116308
-#EXTINF:-1,PT| A BOLA TV 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116309
-#EXTINF:-1,PT| A BOLA TV
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116310
-#EXTINF:-1,PT| CANAL NOS
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116311
-#EXTINF:-1,PT| CANAL Q
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116312
-#EXTINF:-1,PT| CANO NOVA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116313
-#EXTINF:-1,PT| DMTV BOXOFFICE 1
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116314
-#EXTINF:-1,PT| DMTV BOXOFFICE 2
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116315
-#EXTINF:-1,PT| DMTV BOXOFFICE 3
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116316
-#EXTINF:-1,PT| DMTV BOXOFFICE 4
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116317
-#EXTINF:-1,PT| DMTV BOXOFFICE 5
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116318
-#EXTINF:-1,PT| DMTV BOXOFFICE 6
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116319
-#EXTINF:-1,PT| DMTV BOXOFFICE 7
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116320
-#EXTINF:-1,PT| DMTV BOXOFFICE 8
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116321
-#EXTINF:-1,PT| DMTV BOXOFFICE 9
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116322
-#EXTINF:-1,PT| DMTV BOXOFFICE 10
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116323
-#EXTINF:-1,PT| TV RECORD 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116325
-#EXTINF:-1,PT| TV RECORD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116326
-#EXTINF:-1,PT| TV GLOBO 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116327
-#EXTINF:-1,PT| TV GLOBO FHD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116328
-#EXTINF:-1,PT| TV GLOBO HD
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116329
-#EXTINF:-1,PT| TV GLOBO PREMIUM
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116330
-#EXTINF:-1,PT| VH1
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116332
-#EXTINF:-1,PT| VH1 CLASSIC
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116333
-#EXTINF:-1,PT| MCM POP
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116334
-#EXTINF:-1,PT| MTV PORTUGAL 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116335
-#EXTINF:-1,PT| MTV PORTUGAL
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116336
-#EXTINF:-1,PT| MTV DANCE
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116337
-#EXTINF:-1,PT| MTV HITS
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116338
-#EXTINF:-1,PT| MTV ROCKS
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116339
-#EXTINF:-1,PT| AFRO MUSIC
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116340
-#EXTINF:-1,PT| I CONCERTS 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116341
-#EXTINF:-1,PT| TRACE & URBAN 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116342
-#EXTINF:-1,PT| TRACE TOCA
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116343
-#EXTINF:-1,PT| TRACE URBAN
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116344
-#EXTINF:-1,PT| SAUDE 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116346
-#EXTINF:-1,PT| BLOOMBERG
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116347
-#EXTINF:-1,PT| ZAP VIVA 4K
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116349
-#EXTINF:-1,PT| TCV CABO
-http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116350
+#EXTM3U url-tvg="https://ptiptv.tk/guia.xml" x-tvg-url="https://ptiptv.tk/guia.xml"
+#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://ptiptv.tk/logo?i=RTP1" group-title="Entertainment",RTP 1
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2" tvg-logo="https://ptiptv.tk/logo?i=RTP2" group-title="Entertainment",RTP 2
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo?i=SIC" group-title="Entertainment",SIC
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://ptiptv.tk/logo?i=TVI" group-title="Entertainment",TVI
+http://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-logo="https://ptiptv.tk/logo?i=SICN" group-title="News",SIC Notícias
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://ptiptv.tk/logo?i=RTP3" group-title="News",RTP 3
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI24" tvg-logo="https://ptiptv.tk/logo?i=TVI24" group-title="News",TVI 24
+http://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://ptiptv.tk/logo?i=ARTV" group-title="News",ARTV
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="SICC" tvg-logo="https://ptiptv.tk/logo?i=SICC" group-title="Entertainment",SIC Caras
+http://live.impresa.pt/live/siccaras/siccaras.m3u8
+#EXTINF:-1 tvg-id="RTPM" tvg-logo="https://ptiptv.tk/logo?i=RTPM" group-title="Entertainment",RTP Memória
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAC" tvg-logo="https://ptiptv.tk/logo?i=RTPAC" group-title="Entertainment",RTP Açores
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMD" tvg-logo="https://ptiptv.tk/logo?i=RTPMD" group-title="Entertainment",RTP Madeira
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPI" tvg-logo="https://ptiptv.tk/logo?i=RTPI" group-title="Entertainment",RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPA" tvg-logo="https://ptiptv.tk/logo?i=RTPA" group-title="Entertainment",RTP África
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://ptiptv.tk/logo?i=PORTO" group-title="Entertainment",Porto Canal
+#EXTVLCOPT:http-referrer=http://portocanal.sapo.pt/live
+https://ptiptv.tk/porto.m3u8?DkcD6LyoJlEFoVBUIjo6Hk8MkwI
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=EURN" tvg-language="pt" group-title="News",Euronews 🇵🇹
+https://ptiptv.tk/euronews-pt.m3u8?DkcD6LyoJlEFoVBUIjo6Hk8MkwI
+#EXTINF:-1 tvg-id="EURN" tvg-logo="https://ptiptv.tk/logo?i=EURNI" tvg-language="en" group-title="News",Euronews 🇬🇧
+https://ptiptv.tk/euronews.m3u8?DkcD6LyoJlEFoVBUIjo6Hk8MkwI
+#EXTINF:-1 tvg-id="SKYN" tvg-logo="https://ptiptv.tk/logo?i=SKYN" tvg-language="en" group-title="News",Sky News 🇬🇧
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+#EXTINF:-1 tvg-id="BLOOM" tvg-logo="https://ptiptv.tk/logo?i=BLOOM" tvg-language="en" group-title="News",Bloomberg 🇬🇧
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="FR24I" tvg-logo="https://ptiptv.tk/logo?i=FR24I" tvg-language="en" group-title="News",France 24 🇬🇧
+http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="DW-TV" tvg-logo="https://ptiptv.tk/logo?i=DW-TV" tvg-language="en" group-title="News",Deutsche Welle 🇬🇧
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://ptiptv.tk/logo?i=ALJAZ" tvg-language="en" group-title="News",Al Jazeera 🇬🇧
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="RUSST" tvg-logo="https://ptiptv.tk/logo?i=RUSST" tvg-language="en" group-title="News",Russia Today 🇬🇧
+http://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="NHKHD" tvg-logo="https://ptiptv.tk/logo?i=NHKHD" tvg-language="en" group-title="News",NHK World 🇬🇧
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://ptiptv.tk/logo?i=CGTN" tvg-language="en" group-title="News",CGTN 🇬🇧
+http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNDHD" tvg-logo="https://ptiptv.tk/logo?i=CGTNDHD" tvg-language="en" group-title="Documentary",CGTN Documentary 🇬🇧
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="TVE24" tvg-logo="https://ptiptv.tk/logo?i=TVE24" tvg-language="es" group-title="News",TVE 24h 🇪🇸
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-id="TVGAL" tvg-logo="https://ptiptv.tk/logo?i=TVGAL" tvg-country="ES" tvg-language="gl" group-title="Entertainment",TV Galicia 🇪🇸
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="FR24F" tvg-logo="https://ptiptv.tk/logo?i=FR24F" tvg-language="fr" group-title="News",France 24 🇫🇷
+http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://ptiptv.tk/logo?i=TV5" tvg-language="fr" group-title="Entertainment",TV5 Monde 🇫🇷
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-id="RAINEWS" tvg-logo="https://ptiptv.tk/logo?i=RAINEWS" tvg-language="it" group-title="News",Rai News 24 🇮🇹
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="DWTVA" tvg-logo="https://ptiptv.tk/logo?i=DWTVA" tvg-language="de" group-title="News",Deutsche Welle 🇩🇪
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" group-title="Kids",Zig Zag
+https://ptiptv.tk/zigzag.m3u8
+#EXTINF:-1 tvg-id="C180" tvg-logo="https://ptiptv.tk/logo?i=C180" group-title="Arts",Canal 180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVIREAL" group-title="Entertainment",TVI Reality
+http://video-auth7.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
+#EXTINF:-1 tvg-id="FTV" tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FTVHD" tvg-logo="https://ptiptv.tk/logo?i=FTVHD" group-title="Lifestyle",Fashion HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRACE" tvg-logo="https://ptiptv.tk/logo?i=TRACE" group-title="Music",Trace Urban
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="TRACETC" tvg-logo="https://ptiptv.tk/logo?i=TRACETC" group-title="Music",Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="RDP1" tvg-logo="https://ptiptv.tk/logo?i=RDP1" group-title="Radio",Antena 1 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="RDP2" tvg-logo="https://ptiptv.tk/logo?i=RDP2" group-title="Radio",Antena 2 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="RDP3" tvg-logo="https://ptiptv.tk/logo?i=RDP3" group-title="Radio",Antena 3 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="RDP1AC" tvg-logo="https://ptiptv.tk/logo?i=RDP1AC" group-title="Radio",Antena 1 Açores 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1acores80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="RDP1MD" tvg-logo="https://ptiptv.tk/logo?i=RDP1MD" group-title="Radio",Antena 1 Madeira 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="RDP3MD" tvg-logo="https://ptiptv.tk/logo?i=RDP3MD" group-title="Radio",Antena 3 Madeira 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="RDPI" tvg-logo="https://ptiptv.tk/logo?i=RDPI" group-title="Radio",RDP Internacional 🎧
+http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="RDPA" tvg-logo="https://ptiptv.tk/logo?i=RDPA" group-title="Radio",RDP África 🎧
+http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1M" group-title="Radio",Antena 1 Memória 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1L" group-title="Radio",Antena 1 Lusitânia 🎧
+http://streaming-live-app.rtp.pt/liveradio/lusitania80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1V" group-title="Radio",Antena 1 Vida 🎧
+http://streaming-live-app.rtp.pt/liveradio/vida80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1F" group-title="Radio",Antena 1 Fado 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1fado80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2J" group-title="Radio",Antena 2 Jazzin 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2O" group-title="Radio",Antena 2 Ópera 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena2opera80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=ZIGZAGR" group-title="Radio",Rádio ZigZag 🎧
+http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MCRCOM" group-title="Radio",Comercial 🎧
+http://mcrwowza3.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MCRM80" group-title="Radio",M80 🎧
+http://mcrwowza3.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MCRCID" group-title="Radio",Cidade FM 🎧
+http://mcrwowza3.mcr.iol.pt/cidade/ngrp:cidade.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MCRSMO" group-title="Radio",Smooth FM 🎧
+http://mcrwowza3.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MCRVDF" group-title="Radio",Vodafone.FM 🎧
+http://mcrwowza3.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=GRMRFM" group-title="Radio",RFM 🎧
+http://19553.live.streamtheworld.com/RFMAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=GRMRR" group-title="Radio",Renascença 🎧
+http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=GRMMEG" group-title="Radio",Mega Hits 🎧
+http://19553.live.streamtheworld.com/MEGA_HITSAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=GRMSIM" group-title="Radio",Rádio Sim 🎧
+http://19553.live.streamtheworld.com/RADIO_SIMAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MCSBSR" group-title="Radio",SBSR FM 🎧
+http://centova.radios.pt/proxy/435?mp=/stream
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MCMSW" group-title="Radio",MEO Sudoeste 🎧
+http://centova.radios.pt/proxy/495?mp=/stream
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TSF" group-title="Radio",TSF 🎧
+http://tsfdirecto.tsf.pt/tsfdirecto.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=OBSRV" group-title="Radio",Observador 🎧
+http://streamingv2.shoutcast.com/observador_64.aac
