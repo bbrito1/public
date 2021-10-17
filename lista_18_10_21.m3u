@@ -352,7 +352,7 @@ http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116349
 #EXTINF:-1,PT| TCV CABO
 http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116350
 
-#EXTINF:-1,####################################### LISTA 2 #######################################
+
 
 #EXTM3U
 #EXTINF:-1,PT: RTP 1 HD
@@ -621,9 +621,6 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8003
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8002
 #EXTINF:-1,PT: CANAL 11
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8001
-
-
-#EXTINF:-1,####################################### LISTA 3 #######################################
 
 
 #EXTM3U
@@ -1036,8 +1033,6 @@ http://bestott.net:80/56165534481D66A/r96fioyEld/107511
 #EXTINF:-1,PT: CMTV HEVC
 http://bestott.net:80/56165534481D66A/r96fioyEld/107512
 
-
-#EXTINF:-1,####################################### LISTA 3 #######################################
 
 #EXTM3U
 #EXTINF:-1,PT| RTP 1 FHD
@@ -1945,9 +1940,8 @@ http://serivcestv.xyz:8080/3143631718254908/2598854265/193743
 http://serivcestv.xyz:8080/3143631718254908/2598854265/193744
 
 
-#EXTINF:-1,############# LISTA 6 #############
-
-+#EXTINF:-1,PT| RTP 1 4K
+#EXTM3U
+#EXTINF:-1,PT| RTP 1 4K
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/116159
 #EXTINF:-1,PT| RTP 1
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/116160
@@ -2301,8 +2295,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/116349
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/116350
 
 
-#EXTINF:-1,PT: ############# LISTA 7 #############
-
+#EXTM3U
 #EXTINF:-1,PT: A&E
 http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/411
 #EXTINF:-1,PT: AXN BLACK HD
