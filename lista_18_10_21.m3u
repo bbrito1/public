@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",  ➡️ L1 ⬇️
+
 #EXTINF:-1,PT| RTP 1 4K
 http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116159
 #EXTINF:-1,PT| RTP 1
