@@ -352,7 +352,7 @@ http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116349
 #EXTINF:-1,PT| TCV CABO
 http://wagmaott.com:8080/mohbeopQqL6OCrMP/g7WGAiBmMu/116350
 
-
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",  ➡️ L1 ⬇️
 
 #EXTM3U
 #EXTINF:-1,PT: RTP 1 HD
@@ -622,6 +622,7 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8002
 #EXTINF:-1,PT: CANAL 11
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8001
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",  ➡️ L2 ⬇️
 
 #EXTM3U
 #EXTINF:-1,PT: RTP 1 HD ◉
@@ -1032,6 +1033,7 @@ http://bestott.net:80/56165534481D66A/r96fioyEld/107510
 http://bestott.net:80/56165534481D66A/r96fioyEld/107511
 #EXTINF:-1,PT: CMTV HEVC
 http://bestott.net:80/56165534481D66A/r96fioyEld/107512
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",  ➡️ L3 ⬇️
 
 
 #EXTM3U
@@ -1479,6 +1481,8 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193742
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193743
 #EXTINF:-1,PT| ZAP VIVA HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193744
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",  ➡️ L4 ⬇️
 
 
 #EXTM3U
@@ -1939,6 +1943,8 @@ http://serivcestv.xyz:8080/3143631718254908/2598854265/193743
 #EXTINF:-1,PT| ZAP VIVA HD
 http://serivcestv.xyz:8080/3143631718254908/2598854265/193744
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",  ➡️ L5 ⬇️
+
 
 #EXTM3U
 #EXTINF:-1,PT| RTP 1 4K
@@ -2293,6 +2299,8 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/116347
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/116349
 #EXTINF:-1,PT| TCV CABO
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/116350
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",  ➡️ L6 ⬇️
 
 
 #EXTM3U
