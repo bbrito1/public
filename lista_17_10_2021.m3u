@@ -52,30 +52,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/inspiration.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://www.cases.pt/wp-content/uploads/2017/03/qypyvv1437950573.png", ARTV ˢᵈ
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",   ➡️ SIC ᵖᵒʳᵗᵘᵍᵃˡ ⬇️
-http://vk.com/video_ext.php?oid=432851568&id=456239017&hash=78c72a2626a861a6
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-id="sic.pt" group-title="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC%20Internacional.png", SIC Internacionalᴴᴰ 
 http://177.71.71.83:8000/play/sicinternacional
 #EXTINF:-1 tvg-id="" tvg-id="sic.pt" group-title="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC%20Internacional.png", SIC Internacional ˢᵈ [Geo blocked] 
@@ -94,29 +70,6 @@ https://bit.ly/3h4orL7?inspiration.m3u8
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?inspiration.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="sic.pt" group-title="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SIC.png", SIC Mulherᴴᴰ
 http://185.236.229.21:9981/play/a037
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",   ➡️ TVI & Porto canal 🇵🇹 ⬇️
-https://www.ccma.cat/
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png", TVIᴴᴰ 
 http://94.61.44.29:7500/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png", TVIᴴᴰ 
@@ -127,9 +80,6 @@ https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png", TVI REALITY ˢᵈ
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?inspiration.m3u8
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_7706.jpeg",🇧🇷 ╠● A Fazenda 13 [Only simpletv]
-https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_1000/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/portocanal.png", Porto Canalˢᵈ
 http://213.13.26.11:1935/live/portocanal/inspirationlinks.m3u8
@@ -143,9 +93,11 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/2172b02e9431e
 
 
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",    ➡️ Língua Oficial Portuguesa & Religiosos ⬇️
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://goo.gl/wYPLrH",LÍNGUA OFICIAL PORTUGUESA & RELIGIOSOS
 https://vk.com/video_ext.php?oid=432851568&id=456239017&hash=78c72a2626a861a6
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://lorena.r7.com/public/assets/img/postagens/post_7706.jpeg",🇧🇷 ╠● A Fazenda 13 [Only simpletv]
+https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_1000/index.m3u8
 
 
 
