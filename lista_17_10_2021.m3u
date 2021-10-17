@@ -22,22 +22,22 @@ http://91.185.3.218:4000/play/407
 
 
 
-#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP_Internacional.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",PT RTP Internacionalˢᵈ
+#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP_Internacional.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠● RTP Internacionalˢᵈ
 http://162.212.178.69:41042/bysid/608
-#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP_Internacional.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",PT RTP Internacional ˢᵈ²
+#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP_Internacional.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠● RTP Internacional ˢᵈ²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/inspiration.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%201.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",PT RTP 1ᴴᴰ 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%201.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠● RTP 1ᴴᴰ 
 http://93.152.174.144:4000/play/rtp1/index.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%201.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",PT RTP 1ᴴᴰ [only simpletv]
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%201.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠● RTP 1ᴴᴰ [only simpletv]
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/chunklist_b1290000_slpor.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",PT RTP 2 ˢᵈ
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP%202%20HD.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠● RTP 2 ˢᵈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/rtp2.smil/chunklist_b1290000_slpor.m3u8
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",PT RTP 3 ˢᵈ
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹 ╠● RTP 3 ˢᵈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/inspiration.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/RTP%20Memoria.png" group-title="Ensino",PT RTP Memoria ˢᵈ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/RTP%20Memoria.png" group-title="Ensino",🇵🇹 ╠● RTP Memoria ˢᵈ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
 #EXTINF:-1 tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpafrica.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ", RTP África ˢᵈ
