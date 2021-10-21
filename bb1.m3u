@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN HDD
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN HD
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8035?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",24 Kitchen {sat}
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/50?checkedby:iptvcat.com
@@ -75,8 +75,6 @@ http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/190?checkedby:iptvcat.com
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/192?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",VH1
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",VH1 CLASSIC
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8054?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",VH1 CLASSIC
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/4293.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",ZAP VIVA HD
@@ -499,3 +497,105 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8077?checkedby:iptvcat.com
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3933.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SYFY 4K
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116272?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MADEIRA
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116169?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MADEIRA
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8127?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MADEIRA
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116169?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MEMORIA
+http://ultimateiptv.me:8080/Sofiane/Sofiane1234/1683?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MEMORIA
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116165?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MEMORIA
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8126?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MEMORIA
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116165?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP Madeira
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/262?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP Memoria
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/264?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP1 ᵁᴴᴰ
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/19187?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP2 ᵁᴴᴰ
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/19186?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8125?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC 4K
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116170?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC 4K
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116170?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC CARAS
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8121?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC CARAS
+http://iptv.csserv.co:8000/live/clientr725/631739/2760.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC CARAS 4K
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116178?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC CARAS 4K
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116178?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC Caras {sat}
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/44?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC HD
+http://ultimateiptv.me:8080/Sofiane/Sofiane1234/1725?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116171?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC HD
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116171?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC K
+http://iptv.csserv.co:8000/live/clientr725/631739/2052.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC K
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC KIDS
+http://ultimateiptv.me:8080/Sofiane/Sofiane1234/2329?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC KIDS 4K
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116179?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC KIDS 4K
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116179?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC MULHER
+http://ultimateiptv.me:8080/Sofiane/Sofiane1234/1682?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC MULHER
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116173?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC MULHER
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3955.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC MULHER
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116173?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC MULHER
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8124?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC MULHER 4K
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116172?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS
+http://ultimateiptv.me:8080/Sofiane/Sofiane1234/1657?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8123?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS
+http://iptv.csserv.co:8000/live/clientr725/631739/2053.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116177?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3935.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116177?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS 4K
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116176?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS 4K
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116176?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS HD 1080
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7053.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS ᵁᴴᴰ
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/19178?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC Noticias {sat}
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/15?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC Noticias ᴴᴰ
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/14?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC RADICAL
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8122?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC RADICAL
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116175?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC RADICAL 4K
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116174?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC RADICAL 4K
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116174?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC RADICAL HD 1080
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7052.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC RADICAL ᵁᴴᴰ
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/19183?checkedby:iptvcat.com
