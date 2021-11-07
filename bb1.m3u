@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXNN ˢᵈ
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/192
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN ᴴᴰ
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/190
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN ᵁᴴᴰ
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/19165
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN ᵁᴴᴰ
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/191
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Abola TV
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/268xxx68.ts
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Music",Afro Music
@@ -17,10 +11,6 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/26601.ts
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/1708
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BABY TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8105
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BABY TV
-http://iptv.csserv.co:8000/live/clientr725/631739/2077.ts
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BABY TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3979.ts
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8064
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BENFICA TV
@@ -39,14 +29,8 @@ http://ultimateiptv.me:8080/Sofiane/Sofiane1234/4269
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/19156
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BIGGS
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116248
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BIGGS
-http://ultimateiptv.me:8080/Sofiane/Sofiane1234/2328
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BIGGS
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8099
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BLAZE 4K
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116282
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BLAZE HD
-http://ultimateiptv.me:8080/Sofiane/Sofiane1234/265014130
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BLOOMBERG
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8062
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BOOMERANG
