@@ -1,12 +1,6 @@
 
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wYPLrH",       ✯ ✠ ✯ iиรρiяαтiσи тv ✯ ✠ ✯ 
-http://www.lengua.com/anthems/Portugal.mp3?isnpiration=10&rebase=on
-
-
 #EXTINF:-1 tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="Portugal", RTP 1 ¹
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/rtp_playlist.m3u8?isnpiration=10&rebase=on
 #EXTINF:-1 tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="Portugal", RTP 1
@@ -28,14 +22,12 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pnOzjZW.png" group-title="Portugal", RTP INTERNACIONAL ¹
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8?isnpiration=10&rebase=on
 
-
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://regiao-sul.pt/wp-content/uploads/2017/07/sic-logotipo.jpg", SIC [Geoblock]
 http://live.impresa.pt/live/sic/sic540p.m3u8?isnpiration=10&rebase=on
 #EXTINF:-1 group-title="Portugal" tvg-logo="", SIC Noticias [Geoblock]
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?isnpiration=10&rebase=on
 #EXTINF:-1 group-title="Portugal" tvg-logo="", SIC Radical [Geoblock]
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://i.imgur.com/doTfHuK.png", TVI 
 http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8?isnpiration=10&rebase=on
@@ -46,15 +38,12 @@ http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?isnpiration=10&reb
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/4/49/20170220205100%21Tvi_reality.png", TVI REALITY ¹
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8?isnpiration=10&rebase=on
 
-
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://www.cases.pt/wp-content/uploads/2017/03/qypyvv1437950573.png", ARTV 
 http://193.126.16.68:1935/livenlin4/2liveartvpub/chunklist_w30591610.m3u8?isnpiration=10&rebase=on
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://www.congreso.es/wc/htdocs/web/img/logo.gif", Canal Parlamento [esp]
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%20110%20x%20110/canal_180_110x110.jpg", Canal 180
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?isnpiration=10&rebase=on
-
-
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz4U-Qi9f_5AAEcvbxmw16xbUnmUp_0oQwpWQ=s900-mo-c-c0xffffffff-rj-k-no", Kuriakos Tv
 http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8?isnpiration=10&rebase=on
@@ -70,7 +59,6 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8?isnpiration=10&
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w831770220_b364000_slpor.m3u8?isnpiration=10&rebase=on
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://yt3.ggpht.com/a/AGF-l78zSVtgOgAeS-2mAikftrs9GxHBZxNOCXrD3g=s48-mo-c-c0xffffffff-rj-k-no", AzoresTV [Youtube]
 https://www.youtube.com/embed/tFwk6-Cpwj4?autoplay=1
-
 
 #EXTINF:-1 group-title="Portugal "tvg-logo="", Fish tv 🇧🇷
 https://www.youtube.com/embed/nMduDaAnYoI?autoplay=1
@@ -90,35 +78,8 @@ https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8?i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Luxe_TV.png/250px-Luxe_TV.png",Luxe Tv
 http://210.210.155.35/x6bnqe/s/s65/index2.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wYPLrH",       ✯ ✠ ✯ iทfαทтıℓ мix ✯ ✠ ✯ 
-http://www.lengua.com/anthems/Portugal.mp3?isnpiration=infantil&rebase=on
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/wYPLrH"
+http://w
 
 #EXTINF:-1 group-title="Infantil"tvg-logo="http://www.espai.jazztel.es/images/peppapig.png", Peppa Pig [br]
 https://www.youtube.com/embed/anC62NxSkOg?autoplay=1
@@ -143,30 +104,8 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 group-title="Infantil"tvg-logo="http://www.espai.jazztel.es/images/wowtv.png", wow tv [esp]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/wYPLrH",       ✯ 🌍 ✯ ραcστє iทτєrทαciσทαℓ  ✯ 🌍 ✯ 
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8?isnpirationextra=10&rebase=on
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png", TVE [esp]
 http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8?isnpiration=10&rebase=on
@@ -181,10 +120,6 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2ca_lv3_aos
 #EXTINF:-1 group-title="Portugal" tvg-logo="", Rai 1 [iτ]
 http://ott-cdn.ucom.am/s29/index.m3u8?isnpiration=10&rebase=on
 
-
-
-
-
 #EXTINF:-1 group-title="Portugal" tvg-logo="", Fox [🇬🇧]
 http://188.35.9.11:21131/udp/147l
 #EXTINF:-1 group-title="Portugal" tvg-logo="", Fox [🇬🇧]
@@ -197,9 +132,6 @@ http://82.214.119.228:7001/foxcrime
 http://188.35.9.11:21161/udp/173c
 #EXTINF:-1 group-title="Portugal" tvg-logo="", AXN [🇬🇧]
 http://188.35.9.11:21111/udp/127b
-
-
-
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="", 24 Kitchen [🇬🇧]
 http://176.127.239.40:8000/play/a00d
@@ -240,38 +172,14 @@ http://185.41.23.27:8000/play/a02h
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://www.espai.jazztel.es/images/myplanet.png", Trofeu [ru]
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/wYPLrH",       ✯ 🌍 ✯ filмร & รєяiєร  ✯ 🌍 ✯ 
 http://www.lengua.com/anthems/USA.mp3
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="cinema" tvg-logo="http://1.bp.blogspot.com/-97cvxISExCc/V_KiwEj8FSI/AAAAAAAAAS4/hrt3P_QJgnMbLc27_wFLptjPS16aAbPawCK4B/s1600/985166%2B%25288%2529.gif", Iptv 4up Cinema
 http://173.249.3.133:59700
 
 #EXTINF:-1 group-title="cinema" tvg-logo="http://nextgen-iptv.com/logo/Cmore%20Hits.png", C More Hits
 http://188.35.9.5:10007/stolen/243q/parasite.install
-
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://channels.roku.com/images/3c81facb90894307a2173b2bb1f89358-hd.jpg", Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
@@ -282,7 +190,6 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/21990_logo_sky_movie_family.png", SKY FAMILY MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png", Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://i.imgur.com/JBWjYhJ.png", Movee 4U 
@@ -291,9 +198,6 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://i.imgur.com/JBWjYhJ.png", classic 4U 
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-
-
-
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg", 24|7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
@@ -304,24 +208,13 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:-1 group-title="cinema" tvg-logo="http://pluspng.com/img-png/star-movies-png-file-star-movies-logo-svg-1280.png", Star Movies [🇺🇸]
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
 
-
-
 #EXTINF:-1 group-title="cinema" tvg-logo="https://www.thesolarsystems.net/images/Goalbit/VOD_BigBunny.png", Big Buck Bunny [αcє]
 http://127.0.0.1:6878/hls/manifest.m3u8?manifest_url=http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 #EXTINF:-1 group-title="cinema" tvg-logo="https://www.thesolarsystems.net/images/Goalbit/VOD_BigBunny.png", Big Buck Bunny
 http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/wYPLrH",       ✯ 🌍 ✯ иσтiciαร Iитєяиαciσиαiร  ✯ 🌍 ✯ 
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8?isnpiration=10&rebase=on
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Informação" tvg-logo="http://img2.rtve.es/v/1694255?w=1600", TVE 24 ¹ 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?isnpiration=10&rebase=on
@@ -369,24 +262,8 @@ http://210.210.155.35/qwr9ew/s/s26/02.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/wYPLrH",       ✯ 🌍 ✯ 🇪🇺 sρσятs vαяเσร  🇪🇺  ✯ 🌍 ✯ 
 https://www.facebook.com/inpirationlinks
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Sport Internacional" tvg-logo="", Sony Six
 http://62.210.143.5:8080/SonySixHD/mpegts
@@ -696,36 +573,6 @@ http://127.0.0.1:6878/ace/getstream?id=5a9715fe5e6cb34502defb83e1aa3eaa48834bce
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?isnpiration=10&rebase=on
 #EXTINF:-1 group-title="+18" tvg-logo="https://i.postimg.cc/8ChVzbFT/LZz-XCb1-V-400x400.jpg", ××× Visit tv
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3062,25 +2909,3 @@ http://drainmainvein.com/media/videos/mp4/3335.mp4
 http://drainmainvein.com/media/videos/mp4/3336.mp4
 #EXTINF:-1, ☆☆•+18•☆☆ XXL
 http://drainmainvein.com/media/videos/mp4/3337.mp4
-
-
-
-
-#EXTINF:-1,
-https://jerrymoz.wordpress.com/
-#EXTINF:-1, ☆☆ ▒▒▒▒▒ ☆☆ INFORMACAO DA LISTA ☆☆ ▒▒▒▒▒
-https://jerrymoz.wordpress.com/
-#EXTINF:-1, Todo o conteúdo das listas iptv Inspiration, não estão alojadas em nenhum servidor próprio e também não contratei nenhum serviço para tal
-https://jerrymoz.wordpress.com/
-#EXTINF:-1, Os links estão disponíveis em pesquisa livre na Internet! Apenas reencaminhamos a hiperligação… não me responsabilizo pelo seu uso! Utilize por sua conta e risco!
-https://jerrymoz.wordpress.com/
-#EXTINF:-1,
-https://jerrymoz.wordpress.com/
-
-
-#EXTINF:-1,
-https://jerrymoz.wordpress.com/
-#EXTINF:-1, ☆☆ ▒▒▒▒▒ ☆☆ ATENÇAO ☆☆ ▒▒▒▒▒
-https://jerrymoz.wordpress.com/
-#EXTINF:-1,Ñ autorizo a partilha e copy past da lista SEM o meu conhecimento e AUTORIZAÇAO!!!
-https://jerrymoz.wordpress.com/
